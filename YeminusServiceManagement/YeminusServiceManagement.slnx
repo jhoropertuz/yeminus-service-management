@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Yeminus.Api/Yeminus.Api.csproj" />
+  <Project Path="Yeminus.Application/Yeminus.Application.csproj" />
+  <Project Path="Yeminus.Domain/Yeminus.Domain.csproj" />
+  <Project Path="Yeminus.Infrastructure/Yeminus.Infrastructure.csproj" />
+  <Project Path="Yeminus.Tests/Yeminus.Tests.csproj" />
+</Solution>
