@@ -1,0 +1,16 @@
+D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Application\obj\Debug\net10.0\Yeminus.Application.csproj.AssemblyReference.cache
+D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Application\obj\Debug\net10.0\Yeminus.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Application\obj\Debug\net10.0\Yeminus.Application.AssemblyInfoInputs.cache
+D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Application\obj\Debug\net10.0\Yeminus.Application.AssemblyInfo.cs
+D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Application\obj\Debug\net10.0\Yeminus.Application.csproj.CoreCompileInputs.cache
+D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Application\obj\Debug\net10.0\Yeminus.Application.sourcelink.json
+D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Application\bin\Debug\net10.0\Yeminus.Application.deps.json
+D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Application\bin\Debug\net10.0\Yeminus.Application.dll
+D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Application\bin\Debug\net10.0\Yeminus.Application.pdb
+D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Application\bin\Debug\net10.0\Yeminus.Domain.dll
+D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Application\bin\Debug\net10.0\Yeminus.Domain.pdb
+D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Application\obj\Debug\net10.0\Yeminus..4C7FF5A9.Up2Date
+D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Application\obj\Debug\net10.0\Yeminus.Application.dll
+D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Application\obj\Debug\net10.0\refint\Yeminus.Application.dll
+D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Application\obj\Debug\net10.0\Yeminus.Application.pdb
+D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Application\obj\Debug\net10.0\ref\Yeminus.Application.dll

@@ -1,6 +1,1 @@
-﻿namespace Yeminus.Domain;
-
-public class Class1
-{
-
-}
+// Placeholder removed — see Entities/, Enums/, Interfaces/, Exceptions/

@@ -1,6 +1,1 @@
-﻿namespace Yeminus.Infrastructure;
-
-public class Class1
-{
-
-}
+// Placeholder removed — see Persistence/, Security/, Extensions/

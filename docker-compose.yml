@@ -1,0 +1,76 @@
+version: '3.9'
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: yeminus_postgres
+    environment:
+      POSTGRES_DB: yeminus_db
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./scripts/postgres.sql:/docker-entrypoint-initdb.d/01-schema.sql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - yeminus_net
+
+  api:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.api
+    container_name: yeminus_api
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+      - ASPNETCORE_URLS=http://+:80
+      - DatabaseProvider=PostgreSQL
+      - ConnectionStrings__DefaultConnection=Host=postgres;Port=5432;Database=yeminus_db;Username=postgres;Password=postgres
+      - JwtSettings__Secret=YeminusServiceManagementSuperSecretKey2024!!
+      - JwtSettings__Issuer=YeminusApi
+      - JwtSettings__Audience=YeminusClient
+      - JwtSettings__ExpirationMinutes=480
+      # Orígenes permitidos: browser accede desde localhost:4200 (Docker) o localhost:5000 (directo)
+      - AllowedOrigins__0=http://localhost:4200
+      - AllowedOrigins__1=http://localhost:5000
+      - AllowedOrigins__2=http://localhost:80
+    ports:
+      - "5000:80"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD-SHELL", "wget -qO- http://localhost:80/health || exit 1"]
+      interval: 15s
+      timeout: 10s
+      retries: 5
+      start_period: 30s
+    networks:
+      - yeminus_net
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.frontend
+    container_name: yeminus_frontend
+    ports:
+      - "4200:80"
+    depends_on:
+      api:
+        condition: service_healthy
+    networks:
+      - yeminus_net
+    restart: unless-stopped
+
+volumes:
+  postgres_data:
+
+networks:
+  yeminus_net:
+    driver: bridge

@@ -1,0 +1,15 @@
+# Angular
+yeminus-ui/node_modules
+yeminus-ui/dist
+yeminus-ui/.angular
+
+# .NET
+YeminusServiceManagement/**/bin
+YeminusServiceManagement/**/obj
+YeminusServiceManagement/**/*.user
+
+# Git / IDE
+.git
+.gitignore
+**/.DS_Store
+**/Thumbs.db

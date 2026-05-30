@@ -1,0 +1,172 @@
+2026-05-30 17:01:01.526 -05:00 [INF] Starting Yeminus Service Management API
+2026-05-30 17:01:01.611 -05:00 [INF] User profile is available. Using 'C:\Users\jhoro\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-05-30 17:01:01.627 -05:00 [INF] Creating key {76568388-3788-467f-a702-5b7c15517b18} with creation date 2026-05-30 22:01:01Z, activation date 2026-05-30 22:01:01Z, and expiration date 2026-08-28 22:01:01Z.
+2026-05-30 17:01:01.769 -05:00 [INF] Writing data to file 'C:\Users\jhoro\AppData\Local\ASP.NET\DataProtection-Keys\key-76568388-3788-467f-a702-5b7c15517b18.xml'.
+2026-05-30 17:01:02.591 -05:00 [INF] Now listening on: http://localhost:5280
+2026-05-30 17:01:02.600 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-05-30 17:01:02.602 -05:00 [INF] Hosting environment: Development
+2026-05-30 17:01:02.603 -05:00 [INF] Content root path: D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Api
+2026-05-30 17:01:28.581 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5280/swagger - null null
+2026-05-30 17:01:28.647 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5280/swagger - 301 0 null 67.569ms
+2026-05-30 17:01:28.706 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5280/swagger/index.html - null null
+2026-05-30 17:01:28.764 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5280/swagger/index.html - 200 null text/html;charset=utf-8 58.1959ms
+2026-05-30 17:01:28.807 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5280/swagger/swagger-ui.css - null null
+2026-05-30 17:01:28.811 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5280/swagger/swagger-ui-standalone-preset.js - null null
+2026-05-30 17:01:28.811 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5280/swagger/index.css - null null
+2026-05-30 17:01:28.811 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5280/swagger/swagger-ui-bundle.js - null null
+2026-05-30 17:01:28.812 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5280/swagger/index.js - null null
+2026-05-30 17:01:28.827 -05:00 [INF] Sending file. Request path: '/index.css'. Physical path: 'N/A'
+2026-05-30 17:01:28.857 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5280/swagger/index.css - 200 202 text/css 45.5768ms
+2026-05-30 17:01:28.840 -05:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2026-05-30 17:01:28.843 -05:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2026-05-30 17:01:28.856 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5280/swagger/index.js - 200 null application/javascript;charset=utf-8 44.24ms
+2026-05-30 17:01:28.898 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5280/swagger/swagger-ui-standalone-preset.js - 200 229223 text/javascript 86.4851ms
+2026-05-30 17:01:28.898 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5280/swagger/swagger-ui.css - 200 154949 text/css 91.2343ms
+2026-05-30 17:01:28.955 -05:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2026-05-30 17:01:28.956 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5280/swagger/swagger-ui-bundle.js - 200 1466908 text/javascript 144.8455ms
+2026-05-30 17:01:29.392 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5280/swagger/favicon-16x16.png - null null
+2026-05-30 17:01:29.394 -05:00 [INF] Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+2026-05-30 17:01:29.395 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5280/swagger/favicon-16x16.png - 200 665 image/png 3.2087ms
+2026-05-30 17:01:29.448 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5280/swagger/v1/swagger.json - null null
+2026-05-30 17:01:29.576 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5280/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 127.7664ms
+2026-05-30 17:04:51.887 -05:00 [INF] Application is shutting down...
+2026-05-30 17:05:00.752 -05:00 [INF] Starting Yeminus Service Management API
+2026-05-30 17:05:00.818 -05:00 [INF] User profile is available. Using 'C:\Users\jhoro\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-05-30 17:05:00.907 -05:00 [INF] Now listening on: http://localhost:5000
+2026-05-30 17:05:00.909 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-05-30 17:05:00.910 -05:00 [INF] Hosting environment: Development
+2026-05-30 17:05:00.911 -05:00 [INF] Content root path: D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Api
+2026-05-30 17:05:07.098 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/ - null null
+2026-05-30 17:05:07.159 -05:00 [WRN] Failed to determine the https port for redirect.
+2026-05-30 17:05:08.718 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/ - 404 0 null 1621.6145ms
+2026-05-30 17:05:08.724 -05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5000/, Response status code: 404
+2026-05-30 17:05:08.780 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/favicon.ico - null null
+2026-05-30 17:05:08.786 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/favicon.ico - 404 0 null 5.5809ms
+2026-05-30 17:05:08.788 -05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5000/favicon.ico, Response status code: 404
+2026-05-30 17:05:35.019 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/ - null null
+2026-05-30 17:05:35.024 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/ - 404 0 null 5.0204ms
+2026-05-30 17:05:35.028 -05:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5000/, Response status code: 404
+2026-05-30 17:05:53.029 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger - null null
+2026-05-30 17:05:53.031 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger - 301 0 null 2.1596ms
+2026-05-30 17:05:53.033 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - null null
+2026-05-30 17:05:53.087 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - 200 null text/html;charset=utf-8 54.2436ms
+2026-05-30 17:05:53.097 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - null null
+2026-05-30 17:05:53.101 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - null null
+2026-05-30 17:05:53.101 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.css - null null
+2026-05-30 17:05:53.102 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - null null
+2026-05-30 17:05:53.105 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.js - null null
+2026-05-30 17:05:53.117 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.js - 200 null application/javascript;charset=utf-8 11.3546ms
+2026-05-30 17:05:53.119 -05:00 [INF] Sending file. Request path: '/index.css'. Physical path: 'N/A'
+2026-05-30 17:05:53.127 -05:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2026-05-30 17:05:53.127 -05:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2026-05-30 17:05:53.140 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.css - 200 202 text/css 39.259ms
+2026-05-30 17:05:53.150 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - 200 229223 text/javascript 47.896ms
+2026-05-30 17:05:53.150 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - 200 154949 text/css 53.412ms
+2026-05-30 17:05:53.154 -05:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2026-05-30 17:05:53.163 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - 200 1466908 text/javascript 62.3196ms
+2026-05-30 17:05:53.451 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/favicon-16x16.png - null null
+2026-05-30 17:05:53.453 -05:00 [INF] Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+2026-05-30 17:05:53.458 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/favicon-16x16.png - 200 665 image/png 7.3594ms
+2026-05-30 17:05:53.462 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - null null
+2026-05-30 17:05:53.625 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 162.8793ms
+2026-05-30 17:13:51.646 -05:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/clients - null null
+2026-05-30 17:13:51.694 -05:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2026-05-30 17:13:51.698 -05:00 [INF] AuthenticationScheme: Bearer was challenged.
+2026-05-30 17:13:51.700 -05:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/clients - 401 0 null 54.4776ms
+2026-05-30 17:20:42.502 -05:00 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/auth/login - null null
+2026-05-30 17:20:42.505 -05:00 [INF] CORS policy execution successful.
+2026-05-30 17:20:42.526 -05:00 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/auth/login - 204 null null 23.9931ms
+2026-05-30 17:20:42.528 -05:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/api/auth/login - application/json 43
+2026-05-30 17:20:42.531 -05:00 [INF] CORS policy execution successful.
+2026-05-30 17:20:42.545 -05:00 [INF] Executing endpoint 'Yeminus.Api.Controllers.AuthController.Login (Yeminus.Api)'
+2026-05-30 17:20:42.775 -05:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Yeminus.Api.Common.ApiResponse`1[Yeminus.Application.DTOs.Auth.LoginResponse]]] Login(Yeminus.Application.DTOs.Auth.LoginRequest) on controller Yeminus.Api.Controllers.AuthController (Yeminus.Api).
+2026-05-30 17:20:47.865 -05:00 [INF] Executed action Yeminus.Api.Controllers.AuthController.Login (Yeminus.Api) in 5061.2804ms
+2026-05-30 17:20:47.886 -05:00 [INF] Executed endpoint 'Yeminus.Api.Controllers.AuthController.Login (Yeminus.Api)'
+2026-05-30 17:20:47.888 -05:00 [ERR] Unhandled exception: Failed to connect to 127.0.0.1:5432
+Npgsql.NpgsqlException (0x80004005): Failed to connect to 127.0.0.1:5432
+ ---> System.Net.Sockets.SocketException (10061): No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at Npgsql.TaskTimeoutAndCancellation.ExecuteAsync(Func`2 getTaskFunc, NpgsqlTimeout timeout, CancellationToken cancellationToken)
+   at Npgsql.Internal.NpgsqlConnector.ConnectAsync(NpgsqlTimeout timeout, CancellationToken cancellationToken)
+   at Npgsql.Internal.NpgsqlConnector.ConnectAsync(NpgsqlTimeout timeout, CancellationToken cancellationToken)
+   at Npgsql.Internal.NpgsqlConnector.RawOpen(SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|214_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.<Get>g__RentAsync|33_0(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.<Open>g__OpenAsync|42_0(Boolean async, CancellationToken cancellationToken)
+   at Dapper.SqlMapper.MultiMapAsync[TFirst,TSecond,TThird,TFourth,TFifth,TSixth,TSeventh,TReturn](IDbConnection cnn, CommandDefinition command, Delegate map, String splitOn) in /_/Dapper/SqlMapper.Async.cs:line 938
+   at Yeminus.Infrastructure.Persistence.Repositories.UserRepository.GetByUsernameAsync(String username) in D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Infrastructure\Persistence\Repositories\UserRepository.cs:line 21
+   at Yeminus.Application.Services.AuthService.LoginAsync(LoginRequest request) in D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Application\Services\AuthService.cs:line 18
+   at Yeminus.Api.Controllers.AuthController.Login(LoginRequest request) in D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Api\Controllers\AuthController.cs:line 18
+   at lambda_method6(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Yeminus.Api.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext context) in D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Api\Middleware\ExceptionMiddleware.cs:line 13
+2026-05-30 17:20:48.018 -05:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/api/auth/login - 500 null application/json 5490.012ms
+2026-05-30 17:21:41.616 -05:00 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/auth/login - null null
+2026-05-30 17:21:41.618 -05:00 [INF] CORS policy execution successful.
+2026-05-30 17:21:41.618 -05:00 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/auth/login - 204 null null 2.5861ms
+2026-05-30 17:21:41.646 -05:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/api/auth/login - application/json 43
+2026-05-30 17:21:41.648 -05:00 [INF] CORS policy execution successful.
+2026-05-30 17:21:41.649 -05:00 [INF] Executing endpoint 'Yeminus.Api.Controllers.AuthController.Login (Yeminus.Api)'
+2026-05-30 17:21:41.650 -05:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Yeminus.Api.Common.ApiResponse`1[Yeminus.Application.DTOs.Auth.LoginResponse]]] Login(Yeminus.Application.DTOs.Auth.LoginRequest) on controller Yeminus.Api.Controllers.AuthController (Yeminus.Api).
+2026-05-30 17:21:45.710 -05:00 [INF] Executed action Yeminus.Api.Controllers.AuthController.Login (Yeminus.Api) in 4059.0281ms
+2026-05-30 17:21:45.711 -05:00 [INF] Executed endpoint 'Yeminus.Api.Controllers.AuthController.Login (Yeminus.Api)'
+2026-05-30 17:21:45.712 -05:00 [ERR] Unhandled exception: Failed to connect to 127.0.0.1:5432
+Npgsql.NpgsqlException (0x80004005): Failed to connect to 127.0.0.1:5432
+ ---> System.Net.Sockets.SocketException (10061): No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at Npgsql.TaskTimeoutAndCancellation.ExecuteAsync(Func`2 getTaskFunc, NpgsqlTimeout timeout, CancellationToken cancellationToken)
+   at Npgsql.Internal.NpgsqlConnector.ConnectAsync(NpgsqlTimeout timeout, CancellationToken cancellationToken)
+   at Npgsql.Internal.NpgsqlConnector.ConnectAsync(NpgsqlTimeout timeout, CancellationToken cancellationToken)
+   at Npgsql.Internal.NpgsqlConnector.RawOpen(SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|214_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.<Get>g__RentAsync|33_0(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.<Open>g__OpenAsync|42_0(Boolean async, CancellationToken cancellationToken)
+   at Dapper.SqlMapper.MultiMapAsync[TFirst,TSecond,TThird,TFourth,TFifth,TSixth,TSeventh,TReturn](IDbConnection cnn, CommandDefinition command, Delegate map, String splitOn) in /_/Dapper/SqlMapper.Async.cs:line 938
+   at Yeminus.Infrastructure.Persistence.Repositories.UserRepository.GetByUsernameAsync(String username) in D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Infrastructure\Persistence\Repositories\UserRepository.cs:line 21
+   at Yeminus.Application.Services.AuthService.LoginAsync(LoginRequest request) in D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Application\Services\AuthService.cs:line 18
+   at Yeminus.Api.Controllers.AuthController.Login(LoginRequest request) in D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Api\Controllers\AuthController.cs:line 18
+   at lambda_method6(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Yeminus.Api.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext context) in D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Api\Middleware\ExceptionMiddleware.cs:line 13
+2026-05-30 17:21:45.720 -05:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/api/auth/login - 500 null application/json 4073.937ms
+2026-05-30 17:23:22.753 -05:00 [INF] Application is shutting down...
+2026-05-30 17:24:18.660 -05:00 [INF] Checking database connection (PostgreSQL)...
+2026-05-30 17:24:22.808 -05:00 [WRN] Database connection attempt 1/5 failed: Failed to connect to 127.0.0.1:5432
+2026-05-30 17:24:28.881 -05:00 [WRN] Database connection attempt 2/5 failed: Failed to connect to 127.0.0.1:5432

@@ -1,0 +1,12 @@
+D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Domain\bin\Debug\net10.0\Yeminus.Domain.deps.json
+D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Domain\bin\Debug\net10.0\Yeminus.Domain.dll
+D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Domain\bin\Debug\net10.0\Yeminus.Domain.pdb
+D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Domain\obj\Debug\net10.0\Yeminus.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Domain\obj\Debug\net10.0\Yeminus.Domain.AssemblyInfoInputs.cache
+D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Domain\obj\Debug\net10.0\Yeminus.Domain.AssemblyInfo.cs
+D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Domain\obj\Debug\net10.0\Yeminus.Domain.csproj.CoreCompileInputs.cache
+D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Domain\obj\Debug\net10.0\Yeminus.Domain.sourcelink.json
+D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Domain\obj\Debug\net10.0\Yeminus.Domain.dll
+D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Domain\obj\Debug\net10.0\refint\Yeminus.Domain.dll
+D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Domain\obj\Debug\net10.0\Yeminus.Domain.pdb
+D:\Pruebas tecnicas\net-angular\yeminus-service-management\YeminusServiceManagement\Yeminus.Domain\obj\Debug\net10.0\ref\Yeminus.Domain.dll

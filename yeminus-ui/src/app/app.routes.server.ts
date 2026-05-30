@@ -1,8 +1,2 @@
-import { RenderMode, ServerRoute } from '@angular/ssr';
-
-export const serverRoutes: ServerRoute[] = [
-  {
-    path: '**',
-    renderMode: RenderMode.Prerender
-  }
-];
+// SSR removed — app runs as pure CSR served by nginx → .NET API
+export const serverRoutes: never[] = [];

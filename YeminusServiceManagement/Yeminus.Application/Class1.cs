@@ -1,6 +1,1 @@
-﻿namespace Yeminus.Application;
-
-public class Class1
-{
-
-}
+// Placeholder removed — see DTOs/, Services/, Validators/, Extensions/
